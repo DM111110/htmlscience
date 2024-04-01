@@ -326,7 +326,7 @@ section {
     height: 2px;
     bottom: -6px;
     left: 0;
-    background-color: var(--color-primary);
+    background-color: #1d00fe;
     visibility: hidden;
     width: 0px;
     transition: all 0.3s ease-in-out 0s;
