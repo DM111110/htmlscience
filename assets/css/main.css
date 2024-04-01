@@ -216,7 +216,7 @@ section {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #fff;
-  border-color: var(--color-primary) transparent var(--color-primary) transparent;
+  border-color: #1d00fe transparent #1d00fe transparent;
   border-radius: 50%;
   width: 60px;
   height: 60px;
